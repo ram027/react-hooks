@@ -1,0 +1,4 @@
+useState - useState hook is basically a react hook which is used in function component to use a state in it.
+why we need it - we can't get access to state in function component.
+                 With this hook we don't need to worry more about this keyword in component. 
+Note - we only use this hook in function component not in class component.
